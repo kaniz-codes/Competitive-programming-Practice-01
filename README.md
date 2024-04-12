@@ -5,3 +5,6 @@ A
 
 B
 ![image](https://github.com/kaniz-codes/Competitive-programming-Practice-01/assets/138873297/a0af415c-80ae-4612-99d1-0fa38640bfaf)
+
+C
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice-01/assets/138873297/098bd972-4eba-4b97-9b6c-4bbec033c551)
