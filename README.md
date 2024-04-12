@@ -8,3 +8,6 @@ B
 
 C
 ![image](https://github.com/kaniz-codes/Competitive-programming-Practice-01/assets/138873297/098bd972-4eba-4b97-9b6c-4bbec033c551)
+
+D
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice-01/assets/138873297/a6beab5d-e284-4397-b8e7-3f23c927b766)
