@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() 
+{
+    int year,x;
+    scanf("%d", &year);
+    x = year%100;
+    printf("K%02d\n",x);
+}
